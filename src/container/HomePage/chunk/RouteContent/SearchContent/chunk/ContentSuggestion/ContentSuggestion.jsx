@@ -1,6 +1,6 @@
 import React from "react";
 import "./ContentSuggestion.css";
-import SuggesstionItem from "./chunk/suggesstionItem";
+import SuggesstionItem from "./chunk/SuggesstionItem";
 const ContentSuggestion = () => {
   return (
     <div className="ContentSuggestion">
